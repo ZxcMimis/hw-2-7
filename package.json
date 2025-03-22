@@ -1,7 +1,8 @@
 {
   "name": "hw-2-7",
   "version": "1.0.0",
-  "description": "",
+  "description": "project",
+  "homepage": "https://zxcmimis.github.io/hw-2-7/",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html",
@@ -9,7 +10,7 @@
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
-  "author": "",
+  "author": "zerowaste",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.14.1"
